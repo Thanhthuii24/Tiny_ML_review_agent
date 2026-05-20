@@ -1,0 +1,16 @@
+1. Chấm điểm từng paper
+
+Mỗi paper sẽ có core_score dựa trên các tiêu chí:
+
+Tiêu chí	Điểm
+Có UAV/drone/aerial rõ	+2
+Có TinyML/edge/embedded deployment	+3
+Có hardware cụ thể: Jetson/RPi/ESP32/STM32/MCU	+3
+Có model cụ thể: YOLO/MobileNet/EfficientNet/...	+2
+Có optimization: quantization/pruning/distillation/NAS	+3
+Có task rõ: detection/tracking/inspection/agriculture...	+2
+Có metric deployment: FPS/latency/memory/power	+3
+Có metric accuracy/mAP/precision/recall	+1
+Là Q1	+1
+Citation cao	+1 đến +3
+Là survey/review/benchmark quan trọng
